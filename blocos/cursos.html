@@ -1,0 +1,56 @@
+<section class="blk-cursos" id="cursos">
+  <div class="wrap blk-cursos__in">
+    <div class="blk-cursos__cab" data-reveal>
+      <p class="blk-cursos__eyebrow">Para profissionais</p>
+      <h2 class="blk-cursos__titulo">Cursos e mentorias em harmonização facial</h2>
+      <p class="blk-cursos__lead">Além do consultório, a Dra. Katryn ensina. Os cursos e as mentorias são para profissionais da estética que querem aprender harmonização com planejamento, do jeito que ela atende.</p>
+    </div>
+    <div class="blk-cursos__lado" data-reveal style="--d:140ms">
+      <ul class="blk-cursos__lista">
+        <li><span>Teoria e prática</span>Do planejamento do rosto à aplicação.</li>
+        <li><span>Vagas limitadas</span>Turmas pequenas, com atenção a cada aluno.</li>
+        <li><span>Datas e formato</span>Próximas turmas e valores pelo WhatsApp.</li>
+      </ul>
+      <a class="blk-cursos__cta" href="https://wa.me/5534999812952?text=Ol%C3%A1%2C%20quero%20saber%20sobre%20os%20cursos%20e%20mentorias." target="_blank" rel="noopener">Perguntar sobre as turmas</a>
+    </div>
+  </div>
+</section>
+
+<style>
+.blk-cursos{
+  padding-block:var(--sp-section);
+  border-top:1px solid color-mix(in srgb,var(--ink) 12%,transparent);
+  border-bottom:1px solid color-mix(in srgb,var(--ink) 12%,transparent);
+}
+.blk-cursos__in{display:grid;gap:var(--sp-4);align-items:start}
+@media (min-width:64rem){
+  .blk-cursos__in{grid-template-columns:1.1fr .9fr;gap:var(--sp-5)}
+}
+.blk-cursos__eyebrow{
+  margin:0 0 var(--sp-2);font-family:var(--f-body);font-size:var(--t-label);
+  letter-spacing:var(--eyebrow-track);text-transform:uppercase;color:var(--brand-2);
+}
+.blk-cursos__titulo{
+  margin:0;font-family:var(--f-display);font-size:var(--t-h2);
+  line-height:var(--lh-display);text-wrap:balance;color:var(--ink);
+}
+.blk-cursos__lead{margin:var(--sp-3) 0 0;max-width:36rem;color:color-mix(in srgb,var(--ink) 72%,transparent)}
+.blk-cursos__lista{list-style:none;margin:0;padding:0;display:grid}
+.blk-cursos__lista li{
+  padding-block:var(--sp-2);
+  border-top:1px solid color-mix(in srgb,var(--ink) 12%,transparent);
+  color:color-mix(in srgb,var(--ink) 72%,transparent);
+}
+.blk-cursos__lista li:last-child{border-bottom:1px solid color-mix(in srgb,var(--ink) 12%,transparent)}
+.blk-cursos__lista span{
+  display:block;font-family:var(--f-display);font-size:1.35em;line-height:1.2;color:var(--ink);
+}
+.blk-cursos__cta{
+  display:inline-block;margin-top:var(--sp-3);padding:.95em 1.6em;
+  border:1px solid var(--ink);border-radius:var(--radius);
+  font-family:var(--f-body);font-size:var(--t-label);letter-spacing:var(--eyebrow-track);
+  text-transform:uppercase;text-decoration:none;color:var(--ink);
+  transition:background .2s,color .2s;
+}
+.blk-cursos__cta:hover{background:var(--ink);color:var(--bg)}
+</style>

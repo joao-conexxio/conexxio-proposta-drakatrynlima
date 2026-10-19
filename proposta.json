@@ -1,0 +1,243 @@
+{
+  "slug": "drakatrynlima",
+  "negocio": {
+    "nome": "Dra. Katryn Lima",
+    "whatsapp": "5534999812952",
+    "unidades": [
+      {
+        "bairro": "Centro · Uberlândia/MG",
+        "endereco": "R. Barão de Camargos, 464",
+        "telefone": "(34) 99981-2952 · WhatsApp",
+        "horario": "Seg a sex, 8h às 21h · Sáb, 8h às 14h"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#86654f",
+    "brand2": "#1e1a18",
+    "ink": "#1e1a18",
+    "bg": "#f5f1ec",
+    "pulse": "#c4a088",
+    "radius": "4px",
+    "registro": "editorial",
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "Manrope",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Como funciona",
+            "href": "#como-funciona"
+          },
+          {
+            "texto": "Cursos",
+            "href": "#cursos"
+          },
+          {
+            "texto": "Onde estamos",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Harmonização facial e rejuvenescimento · Centro de Uberlândia",
+        "h1": "Rejuvenescer sem deixar de se reconhecer",
+        "lead": "Toxina botulínica, bioestimulador de colágeno, ultrassom microfocado e harmonização facial, planejados em etapas e na ordem que o seu rosto pede. Atendimento com hora marcada, inclusive à noite e aos sábados.",
+        "cta": "Agendar pelo WhatsApp",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Harmonização facial",
+          "Toxina botulínica",
+          "Bioestimulador de colágeno",
+          "Ultrassom microfocado",
+          "Preenchimento",
+          "Rosto após emagrecimento",
+          "Cursos e mentorias"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "gigante",
+      "data": {
+        "titulo": "Antes de agendar, os números",
+        "itens": [
+          {
+            "valor": "5,0",
+            "rotulo": "Nota no Google, em mais de 19 avaliações de pacientes"
+          },
+          {
+            "valor": "21h",
+            "rotulo": "Último horário de segunda a sexta, para quem só consegue vir depois do trabalho",
+            "contar": 21
+          },
+          {
+            "valor": "4 anos",
+            "rotulo": "Acompanhando a mesma paciente, que segue voltando a cada etapa",
+            "contar": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "Como a Dra. Katryn trabalha",
+        "citacao": "Preenchimento não é sempre o primeiro passo. Muitas vezes o rosto precisa antes de firmeza e de colágeno, e o resto vem depois.",
+        "autor": "Dra. Katryn Lima",
+        "texto": [
+          "Cada rosto responde de um jeito, então o plano começa pela anatomia de quem está na cadeira, não por um pacote. Em geral ele tem etapas: preparar a pele, devolver sustentação e só então ajustar contorno e volume.",
+          "O objetivo é que as pessoas notem que você está descansada, não que você fez alguma coisa."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Procedimentos não cirúrgicos para o rosto. Na avaliação, a indicação parte do que te incomoda, não da lista.",
+        "itens": [
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Um plano para o rosto inteiro, que combina poucos procedimentos na ordem certa para equilibrar os traços sem mudar a sua expressão."
+          },
+          {
+            "nome": "Toxina botulínica",
+            "descricao": "Suaviza linhas de expressão e rugas dinâmicas e evita que elas se aprofundem com o tempo. Bem dosada, deixa o rosto descansado e com movimento."
+          },
+          {
+            "nome": "Bioestimulador de colágeno",
+            "descricao": "Estimula a pele a produzir o próprio colágeno e devolve firmeza e sustentação. O resultado aparece aos poucos, ao longo dos meses."
+          },
+          {
+            "nome": "Ultrassom microfocado",
+            "descricao": "Trabalha firmeza e contorno do rosto sem cortes. Muitas vezes é a etapa que prepara a pele antes de qualquer preenchimento."
+          },
+          {
+            "nome": "Preenchimento",
+            "descricao": "Repõe volume e define contorno onde o rosto perdeu estrutura, na medida da sua proporção."
+          },
+          {
+            "nome": "Rosto após emagrecimento",
+            "descricao": "Perder muito peso também tira volume do rosto, e ele pode ficar flácido, marcado ou com ar cansado. O plano devolve sustentação sem apagar o que você conquistou."
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como funciona",
+        "lead": "Do primeiro contato ao acompanhamento, sem surpresa no caminho.",
+        "itens": [
+          {
+            "titulo": "Mensagem no WhatsApp",
+            "texto": "Você conta o que gostaria de tratar e escolhe um horário. Há atendimento até as 21h nos dias úteis e até as 14h no sábado."
+          },
+          {
+            "titulo": "Avaliação",
+            "texto": "Uma conversa sobre o seu objetivo e uma leitura do rosto inteiro. Você sai sabendo o que faz sentido fazer agora, o que pode esperar e o que não precisa."
+          },
+          {
+            "titulo": "Plano em etapas",
+            "texto": "Os procedimentos entram na ordem em que o rosto responde melhor, com cada etapa explicada antes de começar."
+          },
+          {
+            "titulo": "Acompanhamento",
+            "texto": "Rejuvenescimento é contínuo. Os retornos ajustam o plano conforme o rosto muda com o tempo."
+          }
+        ]
+      }
+    },
+    {
+      "custom": "blocos/cursos.html"
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Perguntas frequentes",
+        "itens": [
+          {
+            "p": "Vou ficar com o rosto artificial?",
+            "r": "É o que o planejamento existe para evitar. Dose, produto e ponto de aplicação são escolhidos para preservar a sua expressão: a ideia é o seu rosto mais descansado, não um rosto diferente."
+          },
+          {
+            "p": "Emagreci e meu rosto mudou. Tem o que fazer?",
+            "r": "Tem. A perda de volume depois do emagrecimento é comum, e costuma ser tratada com bioestimulador de colágeno e outras etapas definidas na avaliação."
+          },
+          {
+            "p": "Dói?",
+            "r": "Na maior parte dos procedimentos o desconforto é leve e passageiro, e há recursos para reduzi-lo. Varia de pessoa para pessoa e de região para região."
+          },
+          {
+            "p": "Preciso me afastar das atividades depois?",
+            "r": "Em geral, não. Pode haver inchaço ou pequenos hematomas nos primeiros dias, o que é esperado e temporário. Os cuidados de cada procedimento são passados antes."
+          },
+          {
+            "p": "Atende à noite e no sábado?",
+            "r": "Sim. De segunda a sexta, das 8h às 21h. No sábado, das 8h às 14h. Sempre com hora marcada."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde estamos"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Você conta o que te incomoda e sai sabendo quais etapas fazem sentido para o seu rosto, e em que ordem.",
+        "cta": "Agendar pelo WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/drakatrynlima/"
+          },
+          {
+            "texto": "WhatsApp",
+            "href": "https://wa.me/5534999812952"
+          }
+        ],
+        "aviso": "Resultados variam de pessoa para pessoa e dependem de avaliação individual. O conteúdo desta página é informativo e não substitui consulta."
+      }
+    }
+  ]
+}
